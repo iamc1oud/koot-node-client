@@ -1,0 +1,204 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.0.2",
+  "deps": {
+    "nx": "17.0.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "e2e": [
+        {
+          "file": "node-client/e2e/.eslintrc.json",
+          "hash": "4974691928663088857"
+        },
+        {
+          "file": "node-client/e2e/jest.config.ts",
+          "hash": "13104377474126198690"
+        },
+        {
+          "file": "node-client/e2e/project.json",
+          "hash": "15590270121786496660"
+        },
+        {
+          "file": "node-client/e2e/src/cli/cli.spec.ts",
+          "hash": "4748442440434827238"
+        },
+        {
+          "file": "node-client/e2e/src/test-setup.ts",
+          "hash": "12277343883897675151"
+        },
+        {
+          "file": "node-client/e2e/tsconfig.json",
+          "hash": "8499526883202715106"
+        },
+        {
+          "file": "node-client/e2e/tsconfig.spec.json",
+          "hash": "11811063609444882018"
+        }
+      ],
+      "koot-node-client": [
+        {
+          "file": ".gitignore",
+          "hash": "8809642265871070920"
+        },
+        {
+          "file": ".nx/cache/d/daemon.log",
+          "hash": "17009293972095428221"
+        },
+        {
+          "file": ".nx/cache/d/server-process.json",
+          "hash": "11149536406298163350"
+        },
+        {
+          "file": ".nx/cache/file-map.json",
+          "hash": "6451483732223590337"
+        },
+        {
+          "file": ".nx/cache/lockfile.hash",
+          "hash": "9146566486936660212"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/project-graph.html",
+          "hash": "17036869540637447991"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/3rdpartylicenses.txt",
+          "hash": "12697586560952242144"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/environment.js",
+          "hash": "9338644663704374007"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/main.js",
+          "hash": "7728609541428413042"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/polyfills.js",
+          "hash": "13485831370010545069"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/runtime.js",
+          "hash": "8062122689220335238"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/styles.css",
+          "hash": "5562174198026097626"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/styles.js",
+          "hash": "6967509609777074983"
+        },
+        {
+          "file": ".nx/cache/parsed-lock-file.json",
+          "hash": "17155864984113408410"
+        },
+        {
+          "file": ".nx/cache/project-graph.json",
+          "hash": "2783987546043478588"
+        },
+        {
+          "file": "nx.json",
+          "hash": "626902387255781457"
+        },
+        {
+          "file": "package.json",
+          "hash": "15188737952157752212"
+        }
+      ],
+      "node-client": [
+        {
+          "file": "node-client/.eslintignore",
+          "hash": "7663861978715868291"
+        },
+        {
+          "file": "node-client/.eslintrc.json",
+          "hash": "10297793174850582735"
+        },
+        {
+          "file": "node-client/.gitignore",
+          "hash": "16877376182141465221"
+        },
+        {
+          "file": "node-client/.nx/cache/file-map.json",
+          "hash": "14629613827824994876"
+        },
+        {
+          "file": "node-client/.nx/cache/lockfile.hash",
+          "hash": "15096384158596725126"
+        },
+        {
+          "file": "node-client/.nx/cache/parsed-lock-file.json",
+          "hash": "17155864984113408410"
+        },
+        {
+          "file": "node-client/.nx/cache/project-graph.json",
+          "hash": "17289852913997677231"
+        },
+        {
+          "file": "node-client/.prettierignore",
+          "hash": "16448050467312557263"
+        },
+        {
+          "file": "node-client/.prettierrc",
+          "hash": "16267754514737964994"
+        },
+        {
+          "file": "node-client/.vscode/extensions.json",
+          "hash": "235626400633494639"
+        },
+        {
+          "file": "node-client/README.md",
+          "hash": "8168323227319136453"
+        },
+        {
+          "file": "node-client/jest.config.ts",
+          "hash": "10416023981413698844"
+        },
+        {
+          "file": "node-client/jest.preset.js",
+          "hash": "9430166341120122740"
+        },
+        {
+          "file": "node-client/nx.json",
+          "hash": "17399526045604741708"
+        },
+        {
+          "file": "node-client/package.json",
+          "hash": "3270902987908643039"
+        },
+        {
+          "file": "node-client/project.json",
+          "hash": "6619548610845121315"
+        },
+        {
+          "file": "node-client/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "node-client/src/main.ts",
+          "hash": "1769695778783855813"
+        },
+        {
+          "file": "node-client/tsconfig.app.json",
+          "hash": "11653504435993440299"
+        },
+        {
+          "file": "node-client/tsconfig.json",
+          "hash": "10182701031779797300"
+        },
+        {
+          "file": "node-client/tsconfig.spec.json",
+          "hash": "713132797739782072"
+        }
+      ]
+    }
+  }
+}
